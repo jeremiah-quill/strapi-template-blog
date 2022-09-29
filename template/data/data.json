@@ -23,12 +23,12 @@
   ],
   "homepage": {
     "seo": {
-      "metaTitle": "My personal Strapi blog",
-      "metaDescription": "Discover my SEO friendly blog built with Strapi.",
+      "metaTitle": "Strapi Template Blog",
+      "metaDescription": "Strapi Template Blog",
       "shareImage": null
     },
     "hero": {
-      "title": "My blog"
+      "title": "Strapi Template Blog"
     }
   },
   "writers": [
@@ -124,10 +124,10 @@
     }
   ],
   "global": {
-    "siteName": "Strapi Blog",
+    "siteName": "Strapi Template Blog",
     "defaultSeo": {
       "metaTitle": "Page",
-      "metaDescription": "A blog made with Strapi",
+      "metaDescription": "Strapi Template Blog",
       "shareImage": null
     },
     "favicon": null
